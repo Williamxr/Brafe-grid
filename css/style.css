@@ -1,0 +1,44 @@
+/*Reset*/
+
+body, h1, h2, h3, p, ul{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  font-family: Georgia, serif;
+  color: #252525;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+/*Menu*/
+
+.menu{
+  background: #252525;
+}
+
+.menu-nav a{
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.125em;
+}
+
+/*Intro*/
+
+.intro{
+  background: url('../img/bg-intro.jpg') no-repeat center center;
+  background-size: cover;
+  color: #ffffff;
+}
+
+.intro h1{
+  text-transform: uppercase;
+  font-size: 3em;
+}
+
+.intro{
+  
+}
